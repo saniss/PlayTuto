@@ -1,0 +1,13 @@
+# Test data
+
+User(aniss):
+    email:          aniss.serhane@gmail.com
+    password:       secret
+    fullname:       Aniss Serhane
+
+User(bob):
+    email:          said.aazzou@gmail.com
+    password:       secret
+    fullname:       Said Aazzou
+
+
